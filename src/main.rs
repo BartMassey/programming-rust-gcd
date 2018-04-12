@@ -1,4 +1,7 @@
-// Copyright © 2018 Bart Massey
+// Copyright © 2018 Jim Blandy, Jason Orendorff, Bart Massey
+// This work is released under the "MIT License".
+// Please see the file LICENSE in the source
+// distribution of this software for license terms.
 
 // Gcd example from Blandy & Orendorff, ch 1.
 // Calculate the common GCD of a list of numbers
